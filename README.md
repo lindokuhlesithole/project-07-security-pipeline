@@ -83,10 +83,6 @@ Check the DynamoDB table and SNS topic for alerts.
 terraform destroy -auto-approve
 ```
 
-## Author
-
-AWS Cloud Portfolio Project
-
 ---
 
 **Lindokuhle Sithole** - *Cloud Engineer | Cloud DevOps Engineer | Cloud Security Specialist*
