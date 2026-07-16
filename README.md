@@ -81,9 +81,7 @@ Check the DynamoDB table and SNS topic for alerts.
 
 ```bash
 terraform destroy -auto-approve
-```
-
----
+```## Author
 
 **Lindokuhle Sithole** - *Cloud Engineer | Cloud DevOps Engineer | Cloud Security Specialist*
 
